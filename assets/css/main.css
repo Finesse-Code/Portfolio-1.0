@@ -1107,13 +1107,13 @@ input, select, textarea {
 			border-radius: 12px;
 			padding: 0;
 			cursor: pointer;
-			width: 15rem;
+			width: 8rem;
 		  }
 		  .front {
 			display: block;
 			padding: 12px 42px;
 			border-radius: 12px;
-			font-size: 1.25rem;
+			font-size: .80rem;
 			background: rgb(67, 175, 247);
 			color: white;
 			transform: translateY(-4px);
