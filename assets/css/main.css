@@ -1107,17 +1107,22 @@ input, select, textarea {
 			border-radius: 12px;
 			padding: 0;
 			cursor: pointer;
-			width: 15rem;
+			width: 10rem;
+			margin: 5px;
+			padding: .5px;
+			border: .2px solid rgb(255, 255, 255);
+
 		  }
 		  .front {
 			display: block;
 			padding: 12px 42px;
 			border-radius: 12px;
-			font-size: 1.25rem;
-			background: rgb(67, 175, 247);
+			font-size: .80rem;
+			background: rgb(83, 94, 102);
 			color: white;
+			text-align: center;
 			transform: translateY(-4px);
-			border: .5px solid rgb(78, 78, 78);
+			border: .2px solid rgb(255, 255, 255);
 
 		  }
 		  
